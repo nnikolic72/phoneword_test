@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Phoneword_droid\Phoneword_droid.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus-API16" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_droid\MainActivity.cs">
+    <Files>
+      <File FileName="Phoneword_droid\PhoneTranslator.cs" Line="15" Column="15" />
+      <File FileName="Phoneword_droid\MainActivity.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
