@@ -6,7 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-///test edit
+
 namespace Phoneword_droid
 {
 	[Activity (Label = "Phoneword", MainLauncher = true, Icon = "@drawable/icon")]
